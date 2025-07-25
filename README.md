@@ -3,9 +3,11 @@
 </h1>
 
 <p align="left">
-🚀 CS student building tools with <strong>AI, automation, and clean UX</strong><br>
-💡 Background in sales, e-commerce, and business ops<br>
-🌱 Learning: full-stack web dev, LLMs, algorithms, and real-world systems
+  
+CS student building tools with <strong>AI, automation, and clean UX</strong><br>
+Background in sales, e-commerce, and business ops<br>
+Learning: full-stack web dev, LLMs, algorithms, and real-world systems<br>
+Currently Working On: **Crypto Trading Agent** – Telegram alerts, Notion integration, dynamic price watching
 </p>
 
 ---
@@ -27,26 +29,6 @@
 </p>
 
 ---
-
-### 🧪 Featured Projects
-
-- 🔧 **Crypto Trading Agent** – Telegram alerts, Notion integration, dynamic price watching  
-
----
-
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/thearnaout/thearnaout/blob/output/github-contribution-grid-snake.svg)
-
----
-
-
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=thearnaout&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearnaout&layout=compact&theme=tokyonight" />
-</div>
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thearnaout&show_icons=true&theme=radical)
 
