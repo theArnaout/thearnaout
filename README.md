@@ -4,9 +4,12 @@
 
 <p align="left">
   
-CS student building tools with <strong>AI, automation, and clean UX</strong><br>
-Background in sales, e-commerce, and business ops<br>
+I am a CS student building tools with <strong>AI, automation, and clean UX</strong><br>
+
+I have a background in sales, e-commerce, and business ops<br>
+
 Learning: full-stack web dev, LLMs, algorithms, and real-world systems<br>
+
 Currently Working On: **Crypto Trading Agent** – Telegram alerts, Notion integration, dynamic price watching
 </p>
 
@@ -15,7 +18,7 @@ Currently Working On: **Crypto Trading Agent** – Telegram alerts, Notion integ
 ### 📈 GitHub Stats
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 60px;">
     <img src="https://github-readme-stats.vercel.app/api?username=thearnaout&show_icons=true&theme=radical" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearnaout&layout=compact&theme=tokyonight" />
   </div>
