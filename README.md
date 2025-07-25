@@ -28,6 +28,6 @@ Currently Working On: **Crypto Trading Agent** – Telegram alerts, Notion integ
 ### 🔗 Links & Connect
 
 <p align="left">
-  <a href="https://www.mohamadarnaout.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.mohamadarnaout.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/mohamadarnaout" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
