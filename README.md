@@ -36,7 +36,7 @@
 
 ### 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/mohamadarnaout/mohamadarnaout/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/thearnaout/thearnaout/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
