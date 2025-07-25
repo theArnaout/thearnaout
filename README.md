@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Mohamad Arnaout
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thearnaout&show_icons=true&theme=radical)
 
 
 <!--
