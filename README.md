@@ -17,12 +17,17 @@ Currently Working On: **Crypto Trading Agent** – Telegram alerts, Notion integ
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 60px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=thearnaout&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearnaout&layout=compact&theme=tokyonight" />
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=thearnaout&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearnaout&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
 
 
 
