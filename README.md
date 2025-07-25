@@ -1,5 +1,12 @@
 ## 👋 Hi there, I'm Mohamad Arnaout
 
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=mohamadarnaout&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadarnaout&layout=compact&theme=tokyonight" />
+</div>
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thearnaout&show_icons=true&theme=radical)
 
 
