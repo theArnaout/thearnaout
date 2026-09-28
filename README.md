@@ -10,7 +10,6 @@ I have a background in sales, e-commerce, and business ops<br>
 
 Learning: full-stack web dev, LLMs, algorithms, and real-world systems<br>
 
-Currently Working On: **Crypto Trading Agent** – Telegram alerts, Notion integration, dynamic price watching
 </p>
 
 ---
