@@ -20,6 +20,7 @@ Learning: full-stack web dev, LLMs, algorithms, and real-world systems<br>
   <img src="https://github-readme-stats.vercel.app/api?username=thearnaout&show_icons=true&theme=radical" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearnaout&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thearnaout&theme=radical" />
 </p>
 
 ---
