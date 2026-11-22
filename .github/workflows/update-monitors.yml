@@ -1,0 +1,42 @@
+name: Update GitHub monitors
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    paths:
+      - "scripts/generate_monitors.py"
+      - ".github/workflows/update-monitors.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-github-monitors
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate monitor graphic
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/generate_monitors.py
+
+      - name: Save updated graphic
+        run: |
+          git add -- assets/github-monitors.svg
+          if git diff --cached --quiet; then
+            echo "Monitor stats are already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh GitHub monitor stats"
+          git push
