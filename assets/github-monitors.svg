@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 410" role="img" aria-labelledby="title desc">
+<title id="title">Mohamad’s GitHub workstation</title>
+<desc id="desc">935 contributions in the last 12 months. Current streak 1 days. Longest streak 18 days. The second monitor shows languages by bytes of public code.</desc>
+<g font-family="ui-monospace, monospace">
+<rect x="287.5" y="335" width="24" height="40" rx="0" fill="#344151" stroke="none"/>
+<rect x="241.5" y="374" width="116" height="8" rx="4" fill="#596775" stroke="none"/>
+<rect x="12" y="77" width="575" height="260" rx="12" fill="#202936" stroke="#637080"/>
+<rect x="20" y="85" width="559" height="235" rx="6" fill="#07131e" stroke="#865638"/>
+<rect x="557" y="327" width="12" height="3" rx="1" fill="#ff9955" stroke="none"/>
+<rect x="743.0" y="335" width="24" height="40" rx="0" fill="#344151" stroke="none"/>
+<rect x="697.0" y="374" width="116" height="8" rx="4" fill="#596775" stroke="none"/>
+<rect x="605" y="12" width="300" height="325" rx="12" fill="#202936" stroke="#637080"/>
+<rect x="613" y="20" width="284" height="300" rx="6" fill="#07131e" stroke="#865638"/>
+<rect x="875" y="327" width="12" height="3" rx="1" fill="#ff9955" stroke="none"/>
+<text x="40" y="121" font-size="23" fill="#ff9955" text-anchor="start">&gt; contribution history</text>
+<text x="40" y="191" font-size="62" fill="#fff1df" text-anchor="start">935</text>
+<text x="43" y="221" font-size="18" fill="#adc0ce" text-anchor="start">Contributions · last 12 months</text>
+<rect x="42" y="243" width="513" height="1" rx="0" fill="#344151" stroke="none"/>
+<text x="42" y="271" font-size="14" fill="#adc0ce" text-anchor="start">CURRENT STREAK</text>
+<text x="300" y="271" font-size="14" fill="#adc0ce" text-anchor="start">LONGEST IN PERIOD</text>
+<text x="42" y="301" font-size="22" fill="#fff1df" text-anchor="start">1 day</text>
+<text x="300" y="301" font-size="22" fill="#fff1df" text-anchor="start">18 days</text>
+<text x="627" y="52" font-size="23" fill="#ff9955" text-anchor="start">&gt; languages</text>
+<text x="627" y="76" font-size="15" fill="#adc0ce" text-anchor="start">Public repos · by bytes</text>
+<text x="627" y="111" font-size="16" fill="#fff1df" text-anchor="start">Jupyter Notebook</text>
+<text x="881" y="111" font-size="15" fill="#adc0ce" text-anchor="end">76.5%</text>
+<rect x="627" y="118" width="254" height="4" rx="2" fill="#263542" stroke="none"/>
+<rect x="627" y="118" width="194.34" height="4" rx="2" fill="#ff9955" stroke="none"/>
+<text x="627" y="147" font-size="16" fill="#fff1df" text-anchor="start">HTML</text>
+<text x="881" y="147" font-size="15" fill="#adc0ce" text-anchor="end">11.3%</text>
+<rect x="627" y="154" width="254" height="4" rx="2" fill="#263542" stroke="none"/>
+<rect x="627" y="154" width="28.8" height="4" rx="2" fill="#ff9955" stroke="none"/>
+<text x="627" y="183" font-size="16" fill="#fff1df" text-anchor="start">CSS</text>
+<text x="881" y="183" font-size="15" fill="#adc0ce" text-anchor="end">4.0%</text>
+<rect x="627" y="190" width="254" height="4" rx="2" fill="#263542" stroke="none"/>
+<rect x="627" y="190" width="10.23" height="4" rx="2" fill="#ff9955" stroke="none"/>
+<text x="627" y="219" font-size="16" fill="#fff1df" text-anchor="start">Python</text>
+<text x="881" y="219" font-size="15" fill="#adc0ce" text-anchor="end">3.0%</text>
+<rect x="627" y="226" width="254" height="4" rx="2" fill="#263542" stroke="none"/>
+<rect x="627" y="226" width="7.73" height="4" rx="2" fill="#ff9955" stroke="none"/>
+<text x="627" y="255" font-size="16" fill="#fff1df" text-anchor="start">Astro</text>
+<text x="881" y="255" font-size="15" fill="#adc0ce" text-anchor="end">1.8%</text>
+<rect x="627" y="262" width="254" height="4" rx="2" fill="#263542" stroke="none"/>
+<rect x="627" y="262" width="4.5" height="4" rx="2" fill="#ff9955" stroke="none"/>
+<text x="627" y="291" font-size="16" fill="#fff1df" text-anchor="start">C</text>
+<text x="881" y="291" font-size="15" fill="#adc0ce" text-anchor="end">1.0%</text>
+<rect x="627" y="298" width="254" height="4" rx="2" fill="#263542" stroke="none"/>
+<rect x="627" y="298" width="2.42" height="4" rx="2" fill="#ff9955" stroke="none"/>
+</g></svg>
