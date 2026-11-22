@@ -13,11 +13,7 @@ everyday workflows.
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearnaout&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thearnaout&theme=radical" />
-</p>
+![Dual monitors showing my GitHub contribution history and most-used languages](./assets/github-monitors.svg)
 
 ---
 
