@@ -1,23 +1,19 @@
-<h1 align="left">
-  Hey, I'm Mohamad – Welcome to My GitHub!
-</h1>
+<img width="2172" height="724" alt="Mohamad Arnaout Terminal Torus Banner" src="https://github.com/user-attachments/assets/f5202ff6-c2f1-4bf1-b3f0-57e1f7ce1cc4" />
 
-<p align="left">
-  
-I am a CS student building tools with <strong>AI, automation, and clean UX</strong><br>
+**Intern Engineer at Shopify** · Digital Technologies at York University
 
-I have a background in sales, e-commerce, and business ops<br>
+I came to software through sales and e-commerce. After spending time on the
+operations side, I got interested in a particular kind of problem: what do
+people keep doing by hand that a small tool could do for them?
 
-Learning: full-stack web dev, LLMs, algorithms, and real-world systems<br>
-
-</p>
+Right now I’m building with Ruby on Rails and exploring how AI fits into
+everyday workflows.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thearnaout&show_icons=true&theme=radical" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearnaout&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thearnaout&theme=radical" />
