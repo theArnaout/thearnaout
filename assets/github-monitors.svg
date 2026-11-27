@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 410" role="img" aria-labelledby="title desc">
 <title id="title">Mohamad’s GitHub workstation</title>
-<desc id="desc">955 contributions in the last 12 months. Current streak 4 days. Longest streak 18 days. The second monitor shows languages by bytes of public code.</desc>
+<desc id="desc">955 contributions in the last 12 months. Current streak 0 days. Longest streak 18 days. The second monitor shows languages by bytes of public code.</desc>
 <g font-family="ui-monospace, monospace">
 <rect x="287.5" y="335" width="24" height="40" rx="0" fill="#344151" stroke="none"/>
 <rect x="241.5" y="374" width="116" height="8" rx="4" fill="#596775" stroke="none"/>
@@ -18,7 +18,7 @@
 <rect x="42" y="243" width="513" height="1" rx="0" fill="#344151" stroke="none"/>
 <text x="42" y="271" font-size="14" fill="#adc0ce" text-anchor="start">CURRENT STREAK</text>
 <text x="300" y="271" font-size="14" fill="#adc0ce" text-anchor="start">LONGEST IN PERIOD</text>
-<text x="42" y="301" font-size="22" fill="#fff1df" text-anchor="start">4 days</text>
+<text x="42" y="301" font-size="22" fill="#fff1df" text-anchor="start">0 days</text>
 <text x="300" y="301" font-size="22" fill="#fff1df" text-anchor="start">18 days</text>
 <text x="627" y="52" font-size="23" fill="#ff9955" text-anchor="start">&gt; languages</text>
 <text x="627" y="76" font-size="15" fill="#adc0ce" text-anchor="start">Public repos · by bytes</text>
